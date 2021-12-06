@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="id-4120fb77-1fc0-4d2a-b9ad-18b20c633292"
+               path="topics/glossary.html"/>
+   <appContext helpID="topic_d441329a-6e7b-490d-8865-c3c27a2bff90"
+               path="topics/why.html"/>
+   <appContext helpID="topic_33e1afaf-0381-43d0-a6f5-2f4d56ece320"
+               path="topics/feedback.html"/>
+   <appContext helpID="id-653fc45f-b9c6-4a94-fa86-7ed00994d3d3"
+               path="topics/some-assumptions-we-made.html"/>
+   <appContext helpID="topic_21550622-2577-46a8-ca93-ffa2794f9319"
+               path="topics/clog.html"/>
+   <appContext helpID="topic_a1eb7eb4-99a7-4069-bf30-cd47a1cd0332"
+               path="topics/types.html"/>
+   <appContext helpID="topic_804cb605-ae30-4c1c-bf09-f5805cf790f3"
+               path="topics/traditional.html"/>
+   <appContext helpID="businessbenefit" path="topics/fashion.html"/>
+   <appContext helpID="topic_fa61b06f-ff87-4817-f9d1-f0664a57fd4c"
+               path="topics/museum.html"/>
+   <appContext helpID="t" path="topics/tasks.html"/>
+   <appContext helpID="programming" path="topics/programming.html"/>
+   <appContext helpID="reference_bx5_4qp_3s" path="topics/reference.html"/>
+   <appContext helpID="id-4120fb77-1fc0-4d2a-b9ad-18b20c633708"
+               path="topics/glossary.html#id-4120fb77-1fc0-4d2a-b9ad-18b20c633708"/>
+   <appContext helpID="abs-definition" path="topics/glossary.html#abs-definition"/>
+   <appContext helpID="opentoolkit" path="topics/OT.html"/>
+</map>
